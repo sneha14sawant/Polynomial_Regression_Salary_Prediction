@@ -16,5 +16,4 @@ We want to build a model to predict what salary we should offer this new employe
 2. Use Polynomial Regression and Visualise the Plot Properly.    
 3. Use Proper Diagonistics to show the accuracy and error of the Model.   
 
-#### To view Jupyter Notebook click [here]
-(https://github.com/sneha14sawant/Polynomial_Regression_Salary_Preditcion/blob/629a82279e97950e779e802f846f79d080028a1c/Code/Polynomial%20assignment--salary%20prediction-new.ipynb)
+#### To view Jupyter Notebook click [here](https://github.com/sneha14sawant/Polynomial_Regression_Salary_Preditcion/blob/629a82279e97950e779e802f846f79d080028a1c/Code/Polynomial%20assignment--salary%20prediction-new.ipynb)
