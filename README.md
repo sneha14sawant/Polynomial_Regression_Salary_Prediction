@@ -1,4 +1,4 @@
-# Polynomial_Regression_Salary_Preditcion   
+# Polynomial_Regression_Salary_Prediction   
 Dataset-     
 First lets look at the dataset. It is Position_Salaries.csv and can be found here.    
 It has 3 columns - "Position", "Level" and "Salary" and describes the approximate salary range for an employee based on what level he falls under.         
